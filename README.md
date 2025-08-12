@@ -95,16 +95,6 @@ Subject: AWS S3 Free Tier Usage Warning
 ALERT: S3 bucket 'your-bucket-name' is using 4950 MB (limit: 4900 MB). Upload skipped to avoid AWS charges.
 ```
 
-## License
-
-MIT License — free to use, modify, and share.
-
-
 ## Acknowledgment
 
 Inspired by the need to help students and small developers avoid unnecessary cloud costs with simple automation.
-
-
-## Tags
-
-#AWS #S3 #FreeTier #ShellScript #EmailAlert #Cloud #Linux #StudentProjects #Automation #BashScrip
