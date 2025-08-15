@@ -3,7 +3,7 @@
 A beginner-friendly Bash script to monitor your AWS S3 bucket usage and send email alerts when you're close to exceeding the 5 GB Free Tier limit.
 This helps prevent surprise billing and encourages safe, cost-efficient cloud usage.
 
-## 📌 Features
+## Features
 
 - Checks total size of an S3 bucket
 - Compares it to a safe threshold (default: 4900 MB)
